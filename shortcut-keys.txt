@@ -1,0 +1,17 @@
+Tab Always On Top           ctrl + windows + t
+
+Split Screen                windows + arrow key
+
+Switching Between Tabs      alt + tab
+
+Close all windows           alt + F-4
+
+Git Saving Code             git add -A
+                            git commit -m "changes name"
+                            git push origin main
+
+Fold All		    Ctrl + Shift + P -> select fold all
+
+First Line		    Ctrl + Home			
+
+Last Line		    Ctrl + End

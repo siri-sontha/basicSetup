@@ -1,0 +1,49 @@
+Step 1: Change to projects directory
+
+	cd  C:\xampp\htdocs\projects
+
+Step 2: Create a new folder
+
+	mkdir folder-name
+
+Step 3: Enter into the new folder
+
+	cd folder-name
+
+Step 4: Initialize repo
+
+	git init
+
+Step 5: Add your files
+
+	echo "# My Project" > README.md (It creates a readme.md file and writes #My Project into it)
+	git add .
+	git commit -m "Initial 	commit"
+
+Step 6: Rename branch to main
+
+	git branch -M main
+
+Step 7: Login using GitHub cli
+
+	gh auth login
+
+Step 8: Create repo and push
+
+	gh repo create siri-sontha/repo-name --public --source=. --remote=origin --push
+
+Step 8: .gitignore
+
+	echo "node_modules/" > .gitignore
+	echo ".env" >> .gitignore
+
+Step 9: Push your local folder to GitHub
+	
+	git add .
+	git commit -m "set-up"
+	git push -u origin main
+
+
+
+
+

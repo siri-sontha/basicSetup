@@ -1,0 +1,9 @@
+HTML MEDIA BREAK-POINTS (for 16px)
+
+DEVICES                             SIZES (px)                         SIZES (em)	  FONT-SIZES  		
+
+Extra Small (XS) – Phones  	  360px to 576px (below 576px)              36em	        14px	  
+Small (SM) – Phones	  	      576px to 768px (below 768px)              48em	        18px
+Medium (MD) – Tablets	   	  768px to 992px (below 992px)              62em	        20px	  
+Large (LG) – Laptops	   	  992px to 1200px (below 1200px)            78em	        
+Extra Large (XL) – Desktops   > 1200px (above 1200px)                   >78em  	  
