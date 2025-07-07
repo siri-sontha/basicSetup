@@ -2,3 +2,5 @@ NODE COMMANDS
 
 ENTER INTO NODE --> node
 NODE PACKAGE MANAGER --> npm init (creates package.json)
+
+ 
