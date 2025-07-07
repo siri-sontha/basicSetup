@@ -1,17 +1,17 @@
-Tab Always On Top           ctrl + windows + t
+Tab Always On Top           Ctrl + Windows + t
 
-Split Screen                windows + arrow key
+Split Screen                Windows + Arrow Key
 
-Switching Between Tabs      alt + tab
+Switching Between Tabs      Alt + Tab
 
-Close all windows           alt + F-4
+Close all windows           Alt + F-4
 
-Git Saving Code             git add -A
-                            git commit -m "changes name"
-                            git push origin main
+Fold All		    Ctrl + Shift + P --> select fold all
 
-Fold All		    Ctrl + Shift + P -> select fold all
+First/Last Line		    Ctrl + Home/End			
 
-First Line		    Ctrl + Home			
+Minimize/Maximize
+Active Window		    Windows Key + Down/Up Arrow
 
-Last Line		    Ctrl + End
+Duplicate Line 
+Down/Up		    	    Shift + Alt + Down/Up Arrow

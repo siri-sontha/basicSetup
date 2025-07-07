@@ -1,0 +1,15 @@
+Step 1: Create react app using vite
+
+	npm create vite@latest
+
+Step 2: Open new folder
+
+	cd folder-name
+
+Step 3: Installing dependencies
+
+	npm install
+
+Step 4: Run project
+
+	npm run dev
