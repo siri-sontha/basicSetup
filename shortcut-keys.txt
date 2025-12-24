@@ -1,0 +1,17 @@
+Tab Always On Top           Ctrl + Windows + t
+
+Split Screen                Windows + Arrow Key
+
+Switching Between Tabs      Alt + Tab
+
+Close all windows           Alt + F-4
+
+Fold All		    Ctrl + Shift + P --> select fold all
+
+First/Last Line		    Ctrl + Home/End			
+
+Minimize/Maximize
+Active Window		    Windows Key + Down/Up Arrow
+
+Duplicate Line 
+Down/Up		    	    Shift + Alt + Down/Up Arrow

@@ -1,0 +1,18 @@
+ENTER INTO NODE --> node
+NODE PACKAGE MANAGER --> npm init (creates package.json)
+
+Step 1: Initialize Node
+
+	npm init -y
+
+Step 2: Install Dependencies
+
+	npm install express cors dotenv
+
+Step 3: Install nodemon (for auto-saving)
+
+	npm install --save-dev nodemon
+
+
+
+ 

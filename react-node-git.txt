@@ -1,0 +1,38 @@
+Step 1 : Create empty folder
+
+Step 2 : Create backend folder
+	
+	 [In terminal,] 
+		      npm init -y
+		      npm install package-name
+
+Step 3 : Create frontend folder
+
+	 [Open the root folder in terminal]
+	 npm create vite@latest
+
+Step 4 : Cut and paste .gitignore to root folder
+
+Step 5: Initialize repo
+
+	git init
+
+Step 6: Rename branch to main
+
+	git branch -M main
+
+Step 7: Push your local folder to GitHub
+	
+	git add .
+	git commit -m "set-up"
+
+Step 8 : Create your repo
+
+	gh repo create siri-sontha/repo-name --public --source=. --remote=origin --push
+
+Step 9: Push changes
+
+	git push -u origin main
+
+	
+ 		

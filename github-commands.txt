@@ -1,0 +1,40 @@
+*CREATE FOLDER --> mkdir folder-name *CHANGE FOLDER --> cd folder-name
+*LINK REPO WITH FOLDER --> git remote set-url origin
+*UNTRACK FILES --> git rm --cached .env
+https://github.com/siri-sontha/repo-name.git
+
+Step 1: Initialize repo
+
+	git init
+
+Step 2: Add your files
+ṭ
+	echo "# My Project" > README.md
+
+Step 3: Rename branch to main
+
+	git branch -M main
+
+Step 4: Login to acc (GitHub Cli)
+
+	gh auth login
+
+Step 6: Push your local folder to GitHub
+	
+	git add .
+	git commit -m "set-up"
+	git push -u origin main
+
+Step 7: Create repo and push (GitHub Cli)
+
+	gh repo create siri-sontha/repo-name --public --source=. --remote=origin --push
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+ENTER INTO NODE --> node
+NODE PACKAGE MANAGER --> npm init (creates package.json)
+
+Create Project:
+
+	npx create-react-app app-name
+
+Start Project:
+
+	yarn start
+
+Install Dependencies:
+
+	yarn add dep-name (react-router-dom)
+
+
+
+ 
