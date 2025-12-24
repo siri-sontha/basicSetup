@@ -176,3 +176,15 @@ Tailwind CSS IntelliSense
 
 Thunder Client
 
+
+
+###### **DEVICE TOOLS**
+
+
+
+windows power toys \[useful shortcut keys \& more]
+
+xampp \[localhost \& sql admin]
+
+
+
