@@ -72,11 +72,11 @@ nekocalc \[rem \& em conversion]
 
 
 
-###### <b>GUIDES, CHEAT SHEETS \& RESOURCES</b>
+###### **GUIDES, CHEAT SHEETS \& RESOURCES**
 
 
 
-react 
+react
 
 tailwindcss *(https://v2.tailwindcss.com/docs)*
 
@@ -116,7 +116,7 @@ get waves \[generate wave patterns] *(https://getwaves.io)*
 
 
 
-###### <b>APIs</b>
+###### **APIs**
 
 
 
@@ -126,7 +126,7 @@ the movie database - tmdb  *(https://www.themoviedb.org)*
 
 
 
-###### <b>HANDY TOOLS</b>
+###### **HANDY TOOLS**
 
 
 
@@ -138,13 +138,13 @@ codepen.io *(https://codepen.io/)*
 
 
 
-###### <b>BROWSER EXTENSIONS</b>
+###### **BROWSER EXTENSIONS**
 
 
 
 allow right click
 
-mobile simulator - responsive testing tool 
+mobile simulator - responsive testing tool
 
 multi find - search and highlight
 
@@ -154,5 +154,25 @@ whatfont for microsoft edge
 
 
 
+###### **VS Code EXTENSIONS**
 
+&nbsp;
+
+Code Spell Checker
+
+Auto Rename Tag
+
+Emmet Keybindings
+
+Emmet Live
+
+ES7+ React/Redux/React-Native snippets
+
+Live Server
+
+Pretty Formatter
+
+Tailwind CSS IntelliSense
+
+Thunder Client
 
