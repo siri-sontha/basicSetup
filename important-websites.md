@@ -4,19 +4,13 @@
 
 
 
-###### **INSPOS**
+###### **INSPOS \& DESIGNING**
 
 
 
-pinterest *(https://in.pinterest.com/)*
+pinterest \[website inspirations] *(https://in.pinterest.com/)*
 
-dribble *(https://dribbble.com/)*
-
-
-
-###### **DESIGNING**
-
-
+dribble \[website inspirations] *(https://dribbble.com/)*
 
 framer *(https://www.framer.com/marketplace/plugins/)*
 
@@ -51,6 +45,8 @@ google icons *(https://fonts.google.com/icons)*
 fontawesome *(https://fontawesome.com/icons)*
 
 feather *(https://feathericons.com/)*
+
+svgicons \[download free svg icons]
 
 
 
@@ -136,6 +132,10 @@ markword.it
 
 codepen.io *(https://codepen.io/)*
 
+flowbite \[reusable components] *(https://flowbite.com/)*
+
+
+
 
 
 ###### **BROWSER EXTENSIONS**
@@ -156,7 +156,7 @@ whatfont for microsoft edge
 
 ###### **VS Code EXTENSIONS**
 
-&nbsp;
+ 
 
 Code Spell Checker
 
@@ -186,5 +186,9 @@ windows power toys \[useful shortcut keys \& more]
 
 xampp \[localhost \& sql admin]
 
+node
 
+GitHub cli
+
+git
 
