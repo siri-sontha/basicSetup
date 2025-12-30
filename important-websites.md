@@ -156,8 +156,6 @@ whatfont for microsoft edge
 
 ###### **VS Code EXTENSIONS**
 
- 
-
 Code Spell Checker
 
 Auto Rename Tag
